@@ -60,7 +60,7 @@ Briefly:
 
 * Students should be able to find the minimum of 1-d functions using gradient descent using Python and compare to analytical results.  
 
-* Students should be able to apply gradient descent to simple linear regression to find the line of best fit. 
+* Students should be able to apply gradient descent to the cost function for simple linear regression to find the line of best fit. 
 
 * Students should understand why the sigmoid function is used in logistic regression. 
 
