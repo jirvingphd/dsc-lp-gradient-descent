@@ -31,10 +31,6 @@ Gradient Descent; logistic regression
 
 [Gradient Descent Review](https://github.com/learn-co-curriculum/dsc-gradient-descent-review)
 
-[Gradient Descent - Lab](https://github.com/learn-co-curriculum/dsc-gradient-descent-lab)
-
-Briefly:
-
 [Linear to Logistic Regression](https://github.com/learn-co-curriculum/dsc-linear-to-logistic-regression)
 
 
@@ -52,9 +48,19 @@ Briefly:
 
 #### Prerequisite Learn.co material:
 
+[Introduction to Gradient Descent](https://github.com/learn-co-curriculum/dsc-gradient-descent-intro)
+
+[The Gradient in Gradient Descent](https://github.com/learn-co-curriculum/dsc-the-gradient-in-gradient-descent)
+
+[Gradient to Cost Function](https://github.com/learn-co-curriculum/dsc-gradient-to-cost-function)
+
 [Applying Gradient Descent - Lab](https://github.com/learn-co-curriculum/dsc-applying-gradient-descent-lab)
 
-[Linear to Logistic Regression](https://github.com/learn-co-curriculum/dsc-linear-to-logistic-regression)
+
+#### Post-Learn material
+
+[Gradient Descent - Lab](https://github.com/learn-co-curriculum/dsc-gradient-descent-lab)
+
 
 #### Learning goals for this lesson:
 
